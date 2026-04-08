@@ -1,0 +1,5 @@
+{
+  "name": "Universal Web Scraper",
+  "description": "A full-stack utility to scrape web content and save it directly to Google Docs with automated pagination.",
+  "requestFramePermissions": []
+}
